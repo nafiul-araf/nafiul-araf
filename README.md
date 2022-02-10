@@ -1,7 +1,6 @@
 ### Hi there, I'm [Md. Nafiul Islam](https://github.com/nafiul-araf) 👋
 ### I am a stduent and Data Science, Machine Learning ensthusiast!!!!!
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science, Machine Learning and Neural Network research
 - 🌱 I’m currently learning Computer Vision and Natural Language Processing using Neural Networks
