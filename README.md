@@ -11,5 +11,7 @@
 - 😄 Goals: To work more and more in Machine Learning and Neural Networks. Want to invent something new for mankind
 - ⚡ Fun fact: Love to play Cricket and Football, also to watch Golf, Tennis, Basketball
 
+![image title](https://rushter.com/counter.svg)
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nafiul-araf&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-araf&langs_count=5&theme=tokyonight)]()
