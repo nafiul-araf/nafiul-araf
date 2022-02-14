@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other specialists in related field
 - 🤔 I’m looking for help with new problems and difficulties in Data Science related fields
 - 💬 Ask me about Data Science, Machine Learning and Neural Network
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nafiul-araf-50b0b7203/) or Email(mdnafiulislam@gmail.com), and [Kaggle](https://www.kaggle.com/nafiularaf)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nafiul-araf-50b0b7203/) or Email(mdnafiularaf@gmail.com), and [Kaggle](https://www.kaggle.com/nafiularaf)
 - 😄 Goals: To work more and more in Machine Learning and Neural Networks. Want to invent something new for mankind
 - ⚡ Fun fact: Love to play Cricket and Football, also to watch Golf, Tennis, Basketball
 
