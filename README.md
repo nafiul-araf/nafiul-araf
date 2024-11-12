@@ -9,9 +9,14 @@ Right now, I am focused on building better predictive models to make more accura
 ## 💻 Tech Stack:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nafiul-araf&theme=blue)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-araf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nafiul-araf&show_icons=true&theme=dark)  
+
 [![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/nafiul-araf/contributions?format=svg&private=false)](https://github.com/nafiul-araf)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nafiul-araf&theme=dark)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafiul-araf&show_icons=true&theme=transparent)
 
