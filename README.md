@@ -8,4 +8,4 @@ Right now, I am focused on building better predictive models to make more accura
 
 
 ## 💻 Tech Stack:
-[![Nafiul's's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafiul-araf)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafiul-araf&show_icons=true&theme=transparent)
