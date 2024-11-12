@@ -15,7 +15,7 @@ Right now, I am focused on building better predictive models to make more accura
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nafiul-araf&show_icons=true&theme=dark)  
 
-[<img src="https://api.vaunt.dev/v1/github/entities/nafiul-araf/contributions?format=svg&private=false" alt="Vaunt Badge" width="300" height="150">](https://github.com/nafiul-araf) 
+[<img src="https://api.vaunt.dev/v1/github/entities/nafiul-araf/contributions?format=svg&private=false" alt="Vaunt Badge" width="300" height="200">](https://github.com/nafiul-araf) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nafiul-araf&theme=dark)  
 
