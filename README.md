@@ -8,15 +8,12 @@ Right now, I am focused on building better predictive models to make more accura
 
 ## 💻 Tech Stack:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nafiul-araf&theme=blue)](https://github.com/ryo-ma/github-profile-trophy)
-
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-araf&theme=dark" alt="Top Langs" width="300" height="300">](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=nafiul-araf&show_icons=true&theme=dark" alt="GitHub stats" width="300" height="300">  
-
-[<img src="https://api.vaunt.dev/v1/github/entities/nafiul-araf/contributions?format=svg&private=false" alt="Vaunt Badge" width="300" height="300">](https://github.com/nafiul-araf) 
-
-<img src="https://streak-stats.demolab.com/?user=nafiul-araf&theme=dark" alt="GitHub streak stats" width="300" height="300">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nafiul-araf&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" width="300" height="300">
+<div style="display: flex; flex-wrap: wrap; gap: 0;">
+    [![trophy](https://github-profile-trophy.vercel.app/?username=nafiul-araf&theme=blue)](https://github.com/ryo-ma/github-profile-trophy)
+    [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-araf&theme=dark" alt="Top Langs" width="300" height="300">](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api?username=nafiul-araf&show_icons=true&theme=dark" alt="GitHub stats" width="300" height="300">
+    [<img src="https://api.vaunt.dev/v1/github/entities/nafiul-araf/contributions?format=svg&private=false" alt="Vaunt Badge" width="300" height="300">](https://github.com/nafiul-araf)
+    <img src="https://streak-stats.demolab.com/?user=nafiul-araf&theme=dark" alt="GitHub streak stats" width="300" height="300">
+    <img src="https://github-readme-stats.vercel.app/api?username=nafiul-araf&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" width="300" height="300">
+</div>
 
