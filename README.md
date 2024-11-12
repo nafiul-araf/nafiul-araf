@@ -8,8 +8,6 @@ Right now, I am focused on building better predictive models to make more accura
 
 ## 💻 Tech Stack:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nafiul-araf) 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=nafiul-araf&theme=blue)](https://github.com/ryo-ma/github-profile-trophy)
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-araf&theme=dark" alt="Top Langs" width="300" height="300">](https://github.com/anuraghazra/github-readme-stats)
