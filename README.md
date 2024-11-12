@@ -6,20 +6,19 @@ I enjoy solving challenging problems and using data to help make better decision
 
 Right now, I am focused on building better predictive models to make more accurate forecasts. I am also improving how I clean and prepare data to ensure high quality and using advanced machine learning techniques to solve real-world problems. My goal is to create clear and effective analyses that help businesses make smarter decisions.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nafiul-araf) 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nafiul-araf&theme=blue)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-araf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nafiul-araf&show_icons=true&theme=dark)  
-
-[<img src="https://api.vaunt.dev/v1/github/entities/nafiul-araf/contributions?format=svg&private=false" alt="Vaunt Badge" width="300" height="200">](https://github.com/nafiul-araf) 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nafiul-araf&theme=dark)  
-
-
-
 ## 💻 Tech Stack:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafiul-araf&show_icons=true&theme=transparent)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='300' height='300'>](https://github.com/nafiul-araf) 
+
+[<img src="https://github-profile-trophy.vercel.app/?username=nafiul-araf&theme=blue" alt="trophy" width="300" height="300">](https://github.com/ryo-ma/github-profile-trophy)
+
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-araf&theme=dark" alt="Top Langs" width="300" height="300">](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=nafiul-araf&show_icons=true&theme=dark" alt="GitHub stats" width="300" height="300">  
+
+[<img src="https://api.vaunt.dev/v1/github/entities/nafiul-araf/contributions?format=svg&private=false" alt="Vaunt Badge" width="300" height="300">](https://github.com/nafiul-araf) 
+
+<img src="https://streak-stats.demolab.com/?user=nafiul-araf&theme=dark" alt="GitHub streak stats" width="300" height="300">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nafiul-araf&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" width="300" height="300">
+
