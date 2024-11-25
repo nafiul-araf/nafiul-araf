@@ -21,6 +21,7 @@ Right now, I am focused on building better predictive models to make more accura
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![RDBMS](https://img.shields.io/badge/RDBMS-003B57?logo=database&logoColor=white&style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white&style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
 
