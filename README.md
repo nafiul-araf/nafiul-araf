@@ -31,7 +31,10 @@ Right now, I am focused on building better predictive models to make more accura
 
 [<img src="https://api.vaunt.dev/v1/github/entities/nafiul-araf/contributions?format=svg&private=false" alt="Vaunt Badge" width="300">](https://github.com/nafiul-araf) 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nafiul-araf&theme=dark&hide_border=true)
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nafiul-araf&theme=github-dark)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafiul-araf&show_icons=true&theme=transparent)
 
